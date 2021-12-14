@@ -4,8 +4,8 @@
 - Investigation of SIFT and ORB descriptors for Indoor Maps Fusion for the Multi-agent
 ### Conference: 
 - In The 12th International Conference on Advances in Information Technology (IAIT2021), June 29–July 01, 2021, Bangkok, Thailand.
-### Public Organization:
-- ACM, New York, NY, USA,
+### Published by:
+- ACM, New York, NY, USA
 ### DOI: 
 - https://doi.org/10.1145/3468784.3469950
 
