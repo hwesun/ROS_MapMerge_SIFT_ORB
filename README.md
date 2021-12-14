@@ -56,3 +56,6 @@ Map Data is scanned by other teams in Gazebo. It is generated in different time 
     |    ├── orb_(percentage)_(rotation)_(x_shift)_(y_shift)_org.png  #result of rotating and shifting the map data in rot folder        
     |    ├── orb_(percentage)_(rotation)_(x_shift)_(y_shift)_cmp.png  #figure of ORB descriptor matching features
     └──  └── orb_(percentage)_(rotation)_(x_shift)_(y_shift)_rot.png  #result of appling transformation matrix on orb_(percentage)_(rotation)_(x_shift)_(y_shift)_org.png
+
+## Credit by
+<a href="https://www.nstda.or.th/"><img src="https://www.nstda.or.th/en/images/headers/nstda-logo-mhesi-30years-2.png" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nstda.or.th/taist_tokyo_tech/"><img src="https://www.nstda.or.th/taist_tokyo_tech/images/tokyoTech_LOgo-03.jpg" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ku.ac.th/"><img src="https://www.ku.ac.th/assets/images/header/KU_name_logo_62x62.svg" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;<a href="https://www.ee.ku.ac.th/"><img src="https://www.ee.ku.ac.th/www/wp-content/uploads/2018/11/Logo_ee.png" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.robotcitizens.org/home"><img src="https://www.ee.ku.ac.th/www/wp-content/uploads/2019/01/robotlogo.png" width="100"></a>
