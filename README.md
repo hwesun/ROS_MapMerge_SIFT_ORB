@@ -44,7 +44,7 @@ Map Data is scanned by other teams in Gazebo. It is generated in different time 
     ├── org                                           # Generated benchmark map data from wg_1, without rotating and shifting
     |    ├── d0_(percentage)_r.png                    # Reducing benchmark map data - wg_1 overlap area: 100%, 90%, 70%, 50%, 30%
     ├── rot                                           # Generated benchmark map data from wg_2, rotating 90 degrees
-    |    ├── d1_(percentage)_r_0_0_0_.png             # Reducing benchmark map data - wg_2 overlap area: 100%, 90%, 70%, 50%, 30%
+    |    ├── d1_(percentage)_r_0_0_0.png             # Reducing benchmark map data - wg_2 overlap area: 100%, 90%, 70%, 50%, 30%
     ├── sift                                          # Result of using sift descriptor
     |    ├── sift_(percentage)_(rotation)_(x_shift)_(y_shift).txt      #export transformation matrix, number of matching points and inliers         
     |    ├── sift_(percentage)_(rotation)_(x_shift)_(y_shift)_org.png  #result of rotating and shifting the map data in rot folder        
