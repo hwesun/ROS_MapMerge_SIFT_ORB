@@ -1,5 +1,5 @@
 ## Introduction
-- The project is included in the following paper. The main purpose is for vaildating the map fusion approach. Further details can be found in the paper
+- The project is included in the following paper. The main purpose is for vaildating the map fusion approach. Further details can be found in the paper.
 ### Paper Title: 
 - Investigation of SIFT and ORB descriptors for Indoor Maps Fusion for the Multi-agent
 ### Conference: 
